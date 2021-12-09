@@ -19,45 +19,45 @@ nav{
 display:flex;
 align-items:center;
 justify-content:space-between;
-padding:20px 0;
+padding:20rem 0;
 }
 .logo{
-width:160px;
+width:160rem;
 }
 nav ul li{
 display:inline-block;
 list-style:none;
-margin:10px 30px;
+margin:10rem 30rem;
 }
 nav ul li a{
 color:#fff;
 text-decoration:none;
 }
 .hero h1{
-font-size:75px;
+font-size:75rem;
 margin-top:12%;
 }
 .hero button{
 background:#393939;
 border:0;
 outline:none;
-padding:15px 35px;
+padding:15rem 35rem;
 color:#fff;
-margin-top:25px;
+margin-top:25rem;
 font-weight:500;
-letter-spacing:1px;
+letter-spacing:1rem;
 cursor:pointer;
 }
 .indicator span{
 display:inline-block;
 background:#3a3a3a;
-height:15px;
-width:15px;
+height:15rem;
+width:15rem;
 border-radius:50%;
-margin-right:10px;
+margin-right:10rem;
 }
 .indicator{
-margin-top:150px;
+margin-top:150rem;
 }
 .indicator span.active{
 background:#bfbfbf;
